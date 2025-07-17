@@ -1,21 +1,11 @@
-Create an interactive dice roller app - Solution Code
-=======================================
+🎲 Interactive Dice Roller App Internship: Google Android Developer Intern, AICTE Duration: July 2024 – September 2024 Technologies: Kotlin, Jetpack Compose, Android Studio, Google Play Services
 
-Solution code for the Android Basics with Compose: Create an interactive dice roller app.
+📱 Overview This is a simple yet fully functional Dice Roller app developed using Jetpack Compose, the modern UI toolkit for Android. Built as part of the Android Basics with Compose codelab, the app allows users to roll a digital dice interactively.
 
-Introduction
-------------
-In this codelab, you will build out the Dice Roller app from start to finish using Compose.
+The project demonstrates: Clean Compose UI structure State management Random number generation UI responsiveness and animations
 
-Pre-requisites
---------------
+🧠 Key Learning Outcomes Building declarative UI using Jetpack Compose Implementing control flow in Kotlin (when, if-else) Managing UI state with remember and mutableStateOf Enhancing UX with interactive components
 
-You need to know:
-- How to create a new project in Android Studio
-- How to build a basic layout with Compose.
-- How to write control flow statements (if / else, when statements).
+🚀 Features 🎲 Roll a dice by tapping a button 🔄 Random number generator updates the dice face 🖼️ Dice images update in real time 📱 Responsive UI for various device sizes
 
-Getting Started
----------------
-
-1. Download and run the app.
+🧱 Future Improvements Add animation when rolling the dice Support for two-dice or custom dice sides Sound effects for better user interaction Dark theme compatibility
